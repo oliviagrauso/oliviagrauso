@@ -1,15 +1,18 @@
 
 ---
 
-### 👋 Hi there!  
+### 👋 Hi, I’m Olivia
 
-I’m **Olivia**, a Business Administration graduate with 10 years of experience in B2B Customer Service, now transitioning into the **Data Analytics** field.  
+Business Administration graduate with 10 years of B2B Customer Service experience, currently transitioning into Data Analytics.
 
-I’ve always enjoyed analyzing and finding answers in numbers, but for a long time, I thought it was just an interesting part of my job.
-At the end of 2024, I decided to dive deeper into this passion and start building the skills needed to become an excellent professional in the data field.  
+My background in customer-facing roles has given me a strong understanding of business operations, performance metrics, and decision-making processes. I am now combining that experience with technical skills in:
 
-With a strong background in **Excel and Power Query**, I expanded my skills in **Power BI** for creating dynamic visualizations. Then, I learned **SQL** (including dialects such as PostgreSQL, BigQuery and SQLite) to collect and connect data from various sources, and I'm extending knowledge in Applied Statistics to understand better and interpret the data I work with. I also started learning **Python** for data manipulation, analysis, and visualization using libraries like **Pandas, NumPy, Matplotlib,** and **Seaborn**.  
+Excel & Power Query
+Power BI & DAX
+SQL (PostgreSQL, BigQuery, SQLite)
+Applied Statistics
+Python (Pandas, NumPy, Matplotlib)
 
-Having spent a decade in Customer Service, a field that interfaces with almost every business area, I’ve developed a solid understanding of business operations and challenges. I’m now combining this experience with my analytical skills through hands-on projects that help me keep growing and improving every day.  
+This repository contains hands-on data projects focused on transforming raw data into clear, business-oriented insights.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/oliviagrauso/)! I’m always happy to exchange ideas and learn from others in the community.
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/oliviagrauso/)!
