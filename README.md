@@ -9,7 +9,8 @@ My experience in customer-facing roles has helped me develop strong problem-solv
 I am now combining that experience with technical skills in:
 
 Excel & Power Query  
-Power BI & DAX  
+Power BI & DAX  (PL-300 certified)
+Google Looker Studio
 SQL (PostgreSQL, BigQuery, SQLite)  
 Applied Statistics  
 Python (Pandas, NumPy, Matplotlib)  
